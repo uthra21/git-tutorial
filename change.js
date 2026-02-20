@@ -1,1 +1,1 @@
-console.log('change is needed in life');
+console.log('change');
